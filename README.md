@@ -6,8 +6,7 @@
 [![GitHub PhyberApex](https://img.shields.io/github/followers/phyberapex?label=follow&style=social)](https://github.com/PhyberApex)
 
 <details>
-<summary>Click for GitHub Stats</summary>
-## 🏆 GitHub Trophies
+<summary>Click for GitHub Trophies</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phyberapex&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 <details>
