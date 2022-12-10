@@ -9,4 +9,4 @@
 <summary>Click for GitHub Trophies</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=phyberapex&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-<details>
+</details>
