@@ -30,7 +30,7 @@ When I'm not pushing pixels or debugging code, you can find me:
 
 ## 🏆 GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=phyberapex&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats-virid-two-60.vercel.app/api?username=phyberapex&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Let's Connect
 
