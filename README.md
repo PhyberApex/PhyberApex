@@ -11,6 +11,8 @@ Hi there! I'm a Principal Software Engineer currently working at Salesforce. My 
 - 🔭 I'm currently working at **Salesforce**
 - 💻 My primary focus is **Front-End Development**
 - ❤️ I'm in love with **Vue.js**
+- 🏠 I run a **homelab** with 30+ self-hosted services
+- 🤖 I have an AI familiar named **[Kongroo](https://phyberapex.de/kongroo)**
 - 🌱 I'm always learning and staying up-to-date with the latest in web technologies
 - 💬 Ask me about **JavaScript, TypeScript, Vue.js, and Front-End Architecture**
 
@@ -20,6 +22,25 @@ Hi there! I'm a Principal Software Engineer currently working at Salesforce. My 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+## 🏠 Homelab
+
+I self-host a variety of services on my homelab infrastructure:
+
+- **Media:** Jellyfin, *arr stack (Radarr, Sonarr, etc.)
+- **Productivity:** Paperless-ngx, Mealie, Actual (budgeting)
+- **Smart Home:** Home Assistant, Frigate, AdGuard
+- **Dev Tools:** Woodpecker CI, Gitea-like workflows
+- **AI:** OpenClaw (powering Kongroo!)
+
+All managed with **Ansible** and **Docker Compose**. Check out my [infra repo](https://github.com/PhyberApex/infra) for the full setup!
+
+## 📌 Featured Projects
+
+[![Hibiki](https://github-readme-stats-virid-two-60.vercel.app/api/pin/?username=phyberapex&repo=hibiki&theme=vue)](https://github.com/PhyberApex/hibiki)
+[![Infra](https://github-readme-stats-virid-two-60.vercel.app/api/pin/?username=phyberapex&repo=infra&theme=vue)](https://github.com/PhyberApex/infra)
 
 ## 🎨 Beyond the Code
 
@@ -27,6 +48,8 @@ When I'm not pushing pixels or debugging code, you can find me:
 
 - 🎲 Battling zombies in Zombicide
 - 🖌️ Painting miniatures for Zombicide
+- 🎮 Playing Borderlands (best franchise ever!)
+- 🎵 Collecting video game soundtrack vinyls
 
 ## 🏆 GitHub Stats
 
@@ -36,7 +59,8 @@ When I'm not pushing pixels or debugging code, you can find me:
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about shared interests. You can find me on:
 
-- LinkedIn: [Janis Walliser](https://www.linkedin.com/in/janis-walliser-41687278/)
-- Twitter: [@PhyberApex](https://x.com/PhyberApex)
+- 🌐 Website: [phyberapex.de](https://phyberapex.de)
+- 💼 LinkedIn: [Janis Walliser](https://www.linkedin.com/in/janis-walliser-41687278/)
+- 🐦 Twitter: [@PhyberApex](https://x.com/PhyberApex)
 
 Thanks for visiting, and happy coding!
