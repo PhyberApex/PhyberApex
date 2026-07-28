@@ -27,6 +27,9 @@ Hi there! I'm a Principal Software Engineer currently working at Salesforce. My 
 
 ## ٩(˘◡˘)۶ Homelab
 
+![Self-hosted services](https://img.shields.io/badge/self--hosted_services-30%2B-blueviolet?style=flat-square)
+![Active projects](https://img.shields.io/badge/active_projects-15%2B-success?style=flat-square)
+
 I self-host a variety of services on my homelab infrastructure:
 
 - **Media:** Jellyfin, *arr stack (Radarr, Sonarr, etc.)
@@ -35,12 +38,16 @@ I self-host a variety of services on my homelab infrastructure:
 - **Dev Tools:** Woodpecker CI, Gitea-like workflows
 - **AI:** OpenClaw (powering Kongroo!)
 
-All managed with **Ansible** and **Docker Compose**. Check out my [infra repo](https://github.com/PhyberApex/infra) for the full setup!
+All managed with **Ansible** and **Docker Compose** (the infra repo is private, but check out the [public docs site](https://docs.phyberapex.de) for an overview of the whole setup!).
+
+### ᕙ(⇀‸↼‶)ᕗ Featured Homelab Build: Karakuri
+
+**Karakuri** (からくり, "mechanical puppet") is the control panel for my homelab's LLM/GPU host — service orchestration, model management for llama.cpp and ComfyUI, TTS, and the animated avatar behind Kongroo. Built with Vue 3 + NestJS, it's my answer to "Grafana is too soulless for a one-person creative workshop." The dashboard sits behind Authelia SSO, but you can read more about it (and the rest of the homelab) on the [public docs site](https://docs.phyberapex.de).
 
 ## ＼(￣▽￣)／ Featured Projects
 
-[![Hibiki](https://github-readme-stats-virid-two-60.vercel.app/api/pin/?username=phyberapex&repo=hibiki&theme=vue)](https://github.com/PhyberApex/hibiki)
-[![Infra](https://github-readme-stats-virid-two-60.vercel.app/api/pin/?username=phyberapex&repo=infra&theme=vue)](https://github.com/PhyberApex/infra)
+[![Hibiki](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=hibiki&theme=vue&card_width=333)](https://github.com/PhyberApex/hibiki)
+[![Virtual Camera Overlay](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=virtual-camera-overlay&theme=vue&card_width=333)](https://github.com/PhyberApex/virtual-camera-overlay)
 
 ## ヾ(＾∇＾) Beyond the Code
 
@@ -53,7 +60,8 @@ When I'm not pushing pixels or debugging code, you can find me:
 
 ## ＼(★ω★)／ GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats-virid-two-60.vercel.app/api?username=phyberapex&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![PhyberApex's GitHub stats](https://github-stats-extended.vercel.app/api?username=phyberapex&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=phyberapex&layout=compact&theme=vue)](https://github.com/stats-organization/github-stats-extended)
 
 ## Let's Connect
 
