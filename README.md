@@ -36,7 +36,7 @@ I self-host a variety of services on my homelab infrastructure:
 - **Productivity:** Paperless-ngx, Mealie, Actual (budgeting)
 - **Smart Home:** Home Assistant, Frigate, AdGuard
 - **Dev Tools:** Woodpecker CI, Gitea-like workflows
-- **AI:** Self-built LLM/GPU control panel (powering Kongroo!)
+- **AI:** Karakuri (powering Kongroo!)
 
 All managed with **Ansible** and **Docker Compose** (the infra repo is private, but check out the [public docs site](https://docs.phyberapex.de) for an overview of the whole setup!).
 
