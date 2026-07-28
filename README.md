@@ -46,8 +46,8 @@ All managed with **Ansible** and **Docker Compose** (the infra repo is private, 
 
 ## ＼(￣▽￣)／ Featured Projects
 
-[![Hibiki](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=hibiki&theme=vue&card_width=333)](https://github.com/PhyberApex/hibiki)
-[![Kuroshiro](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=kuroshiro&theme=vue&card_width=333)](https://github.com/PhyberApex/kuroshiro)
+[![Hibiki](https://github-stats-extended.vercel.app/api/pin/?username=PhyberApex&repo=hibiki&theme=vue&card_width=333)](https://github.com/PhyberApex/hibiki)
+[![Kuroshiro](https://github-stats-extended.vercel.app/api/pin/?username=PhyberApex&repo=kuroshiro&theme=vue&card_width=333)](https://github.com/PhyberApex/kuroshiro)
 
 ## ヾ(＾∇＾) Beyond the Code
 
@@ -60,8 +60,8 @@ When I'm not pushing pixels or debugging code, you can find me:
 
 ## ＼(★ω★)／ GitHub Stats
 
-[![PhyberApex's GitHub stats](https://github-stats-extended.vercel.app/api?username=phyberapex&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/stats-organization/github-stats-extended)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=phyberapex&layout=compact&theme=vue)](https://github.com/stats-organization/github-stats-extended)
+[![PhyberApex's GitHub stats](https://github-stats-extended.vercel.app/api?username=PhyberApex&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/stats-organization/github-stats-extended)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PhyberApex&layout=compact&theme=vue)](https://github.com/stats-organization/github-stats-extended)
 
 ## Let's Connect
 
