@@ -36,7 +36,7 @@ I self-host a variety of services on my homelab infrastructure:
 - **Productivity:** Paperless-ngx, Mealie, Actual (budgeting)
 - **Smart Home:** Home Assistant, Frigate, AdGuard
 - **Dev Tools:** Woodpecker CI, Gitea-like workflows
-- **AI:** OpenClaw (powering Kongroo!)
+- **AI:** Self-built LLM/GPU control panel (powering Kongroo!)
 
 All managed with **Ansible** and **Docker Compose** (the infra repo is private, but check out the [public docs site](https://docs.phyberapex.de) for an overview of the whole setup!).
 
@@ -47,7 +47,7 @@ All managed with **Ansible** and **Docker Compose** (the infra repo is private, 
 ## ＼(￣▽￣)／ Featured Projects
 
 [![Hibiki](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=hibiki&theme=vue&card_width=333)](https://github.com/PhyberApex/hibiki)
-[![Virtual Camera Overlay](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=virtual-camera-overlay&theme=vue&card_width=333)](https://github.com/PhyberApex/virtual-camera-overlay)
+[![Kuroshiro](https://github-stats-extended.vercel.app/api/pin/?username=phyberapex&repo=kuroshiro&theme=vue&card_width=333)](https://github.com/PhyberApex/kuroshiro)
 
 ## ヾ(＾∇＾) Beyond the Code
 
