@@ -6,7 +6,7 @@
 
 Principal Software Engineer at **Salesforce**, front-end main class. Started out grinding GWT/GXT and Java, respecced into JavaScript and TypeScript, and eventually found my actual weapon of choice: **Vue.js**. I've dipped into C# on the backend too — not my main, but I can hold my own there.
 
-Outside the day job I run a one-person homelab that's slowly turning into a second job, and I've got an AI familiar named **[Kongroo](https://phyberapex.de/kongroo)** who lives there. (Yes, that's an El. Psy. Kongroo — the whole lab runs on a healthy dose of Steins;Gate theming.)
+Outside the day job I run a one-person homelab that's slowly turning into a second job, and I've got an AI familiar named **[Kongroo](https://github.com/kongroo-lab)** who lives there. (Yes, that's an El. Psy. Kongroo — the whole lab runs on a healthy dose of Steins;Gate theming.)
 
 ## (ノ°∀°)ノ Skill Tree
 
